@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/UnstructuredFiles/reviews.json",
+        "sink_folder" : "RetailAnalytics_Bronze_Reviews",
+        "sink_file" : "RetailAnalytics_review.json"
+    },
+    {
+         "source_url" : "refs/heads/main/UnstructuredFiles/social_media.json",
+        "sink_folder" : "RetailAnalytics_Bronze_Social_Media",
+        "sink_file" : "RetailAnalytics_social_media.json"
+
+    },
+    {
+        "source_url" : "refs/heads/main/UnstructuredFiles/web_logs.json",
+        "sink_folder" : "RetailAnalytics_Bronze_Web_Logs",
+        "sink_file" : "RetailAnalytics_web_logs.json"
+
+    }
+]
