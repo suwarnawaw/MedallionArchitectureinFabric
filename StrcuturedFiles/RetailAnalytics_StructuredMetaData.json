@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/StrcuturedFiles/Orders_Data.csv",
+        "sink_folder" : "RetailAnalytics_Bronze_Orders",
+        "sink_file" : "RetailAnalytics_orders.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/StrcuturedFiles/customers.csv",
+        "sink_folder" : "RetailAnalytics_Bronze_Customers",
+        "sink_file" : "RetailAnalytics_customers.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/StrcuturedFiles/products.csv",
+        "sink_folder" : "RetailAnalytics_Bronze_Products",
+        "sink_file" : "RetailAnalytics_products.csv"
+
+    }
+]
